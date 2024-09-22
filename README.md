@@ -1,7 +1,7 @@
 # Pump-it-up
 # Water Pump Status Prediction Using Machine Learning
 
-This project focuses on predicting the operational status of water pumps in Tanzania using machine learning models. Given the historical data of pumps, the model predicts whether a pump is:
+**This project focuses on predicting the operational status of water pumps in Tanzania using machine learning models. Given the historical data of pumps, the model predicts whether a pump is:**
 1. **Functional**,
 2. **Non-functional**, or
 3. **Functional but requiring repair**.
